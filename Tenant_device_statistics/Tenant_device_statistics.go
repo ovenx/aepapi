@@ -1,8 +1,9 @@
 package aepapi
 
 import (
-	"aepapi/core"
 	"net/http"
+
+	"github.com/ovenx/aepapi/core"
 )
 
 func QueryTenantDeviceCount(appKey string, appSecret string) (*http.Response, error) {

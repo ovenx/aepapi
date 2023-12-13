@@ -1,8 +1,9 @@
 package aepapi
 
 import (
-	"aepapi/core"
 	"net/http"
+
+	"github.com/ovenx/aepapi/core"
 )
 
 // 参数MasterKey: 类型String, 参数可以为空

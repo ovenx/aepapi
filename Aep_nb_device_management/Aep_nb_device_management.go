@@ -1,8 +1,9 @@
 package aepapi
 
 import (
-	"aepapi/core"
 	"net/http"
+
+	"github.com/ovenx/aepapi/core"
 )
 
 // 参数body: 类型json, 参数不可以为空
