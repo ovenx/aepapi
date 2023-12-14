@@ -1,4 +1,4 @@
-package aepapi
+package subscribe
 
 import (
 	"net/http"

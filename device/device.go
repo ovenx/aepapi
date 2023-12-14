@@ -1,4 +1,4 @@
-package aepapi
+package device
 
 import (
 	"net/http"
